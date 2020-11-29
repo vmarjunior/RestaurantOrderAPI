@@ -1,0 +1,16 @@
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\RestaurantOrderAPI.deps.json
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\RestaurantOrderAPI.runtimeconfig.json
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\RestaurantOrderAPI.runtimeconfig.dev.json
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\RestaurantOrderAPI.dll
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.csprojAssemblyReference.cache
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.RazorAssemblyInfo.cache
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.RazorAssemblyInfo.cs
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.AssemblyInfoInputs.cache
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.AssemblyInfo.cs
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.RazorTargetAssemblyInfo.cache
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\bin\Debug\netcoreapp2.1\RestaurantOrderAPI.pdb
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.dll
+C:\Projetos\.NET\RestaurantOrderAPI\RestaurantOrderAPI\obj\Debug\netcoreapp2.1\RestaurantOrderAPI.pdb
